@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="4" name="Failed suite [ALGOMI]">
+  <test name="WebuyTest(failed)">
+    <classes>
+      <class name="algomi.WebuyTest">
+        <methods>
+          <include name="testProductShoppingBasket"/>
+          <include name="printResult"/>
+        </methods>
+      </class> <!-- algomi.WebuyTest -->
+    </classes>
+  </test> <!-- WebuyTest(failed) -->
+</suite> <!-- Failed suite [ALGOMI] -->

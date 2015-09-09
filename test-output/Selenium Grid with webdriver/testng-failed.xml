@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="4" name="Failed suite [Selenium Grid with webdriver]">
+  <test name="WeBuyTest(failed)">
+    <classes>
+      <class name="com.Mod17.weBuy.WebuyProject">
+        <methods>
+          <include name="print_result"/>
+          <include name="testProductShoppingBasket"/>
+        </methods>
+      </class> <!-- com.Mod17.weBuy.WebuyProject -->
+    </classes>
+  </test> <!-- WeBuyTest(failed) -->
+</suite> <!-- Failed suite [Selenium Grid with webdriver] -->

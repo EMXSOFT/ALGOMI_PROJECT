@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ALGOMI" duration-ms="344295" started-at="2015-09-08T20:26:19Z" finished-at="2015-09-08T20:32:04Z">
+    <groups>
+    </groups>
+    <test name="WebuyTest" duration-ms="344295" started-at="2015-09-08T20:26:19Z" finished-at="2015-09-08T20:32:04Z">
+      <class name="algomi.WebuyTest">
+        <test-method status="PASS" signature="testProductShoppingBasket()[pri:0, instance:algomi.WebuyTest@3927ce5e]" name="testProductShoppingBasket" duration-ms="283854" started-at="2015-09-08T21:26:19Z" finished-at="2015-09-08T21:31:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductShoppingBasket -->
+        <test-method status="PASS" signature="printResult()[pri:0, instance:algomi.WebuyTest@3927ce5e]" name="printResult" is-config="true" duration-ms="55168" started-at="2015-09-08T21:31:03Z" finished-at="2015-09-08T21:31:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:algomi.WebuyTest@3927ce5e]" name="tearDown" is-config="true" duration-ms="5220" started-at="2015-09-08T21:31:58Z" finished-at="2015-09-08T21:32:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- algomi.WebuyTest -->
+    </test> <!-- WebuyTest -->
+  </suite> <!-- ALGOMI -->
+</testng-results>

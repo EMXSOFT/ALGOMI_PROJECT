@@ -1,0 +1,8 @@
+<!-- <suite name="Selenium Grid with webdriver" verbose="4" parallel="tests" thread-count="2" > -->  
+<suite name="ALGOMI" verbose="4">
+ <test name="WebuyTest">
+   <classes>
+	  <class name="algomi.WebuyTest"></class>
+    </classes >
+ </test> 
+ </suite>
